@@ -3,7 +3,7 @@
     "displayName": "Save-Eyes-HC",
     "publisher": "alexlab",
     "description": "High Contrast Color theme that save your eyes",
-    "version": "1.0.3",
+    "version": "1.0.4",
     "engines": {
         "vscode": "^1.33.0"
     },
