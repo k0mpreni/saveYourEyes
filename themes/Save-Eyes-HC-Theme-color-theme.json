@@ -22,9 +22,11 @@
     "editor.selectionBackground": "#ffecdb",
     "editor.selectionForeground": "#F92672",
     "editor.lineHighlightBorder": "#fde3a7",
-    "merge.currentHeaderBackground": "#F92672",
-    "merge.currentContentBackground": "#f9448692",
-    "editorWidget.background": "#1c1c29"
+    "merge.currentHeaderBackground": "#abfa9f",
+    "merge.currentContentBackground": "#abfa9f3a",
+    "editorWidget.background": "#1c1c29",
+    "merge.incomingHeaderBackground": "#F92672",
+    "merge.incomingContentBackground": "#f9267345"
 	},
 	"tokenColors": [
 		{
