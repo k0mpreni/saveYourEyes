@@ -1,9 +1,9 @@
 {
     "name": "save-eyes-hc",
-    "displayName": "Save-Eyes-HC",
+    "displayName": "Save-Eyes",
     "publisher": "alexlab",
     "repository": "https://github.com/brainlulz/saveYourEyes",
-    "description": "High Contrast Color theme that save your eyes",
+    "description": "A theme that save your eyes",
     "version": "1.0.4",
     "engines": {
         "vscode": "^1.33.0"

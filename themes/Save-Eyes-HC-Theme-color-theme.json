@@ -2,22 +2,29 @@
 	"name": "Save-Eyes-HC-Theme",
   "type": "dark",
   "editor.fontFamily": "Helvetica",
-  
+
 	"colors": {
     "editor.background": "#0f0f16",
+    "activityBar.background": "#0f0f16",
+    "activityBar.foreground": "#F92672",
+    "sideBar.background": "#0f0f16",
+    "statusBar.background": "#0f0f16",
     "tab.activeBackground": "#0f0f16",
     "tab.hoverBackground": "#0f0f16",
-    "tab.activeForeground": "#B2CCD6",
+    "tab.activeForeground": "#F92672",
     "editor.foreground": "#f3fefe",
-    "contrastActiveBorder": "#89c4f4",
+    "contrastActiveBorder": "#F92672",
     "contrastBorder": "#f3fefe",
 		"activityBarBadge.background": "#007acc",
-    "sideBarTitle.foreground": "#bbbbbb",
+    "sideBarTitle.foreground": "#f3fefe",
     "editor.selectionHighlightBackground": "#0f0f16",
     "editor.selectionHighlightBorder": "#F92672",
     "editor.selectionBackground": "#ffecdb",
     "editor.selectionForeground": "#F92672",
     "editor.lineHighlightBorder": "#fde3a7",
+    "merge.currentHeaderBackground": "#F92672",
+    "merge.currentContentBackground": "#f9448692",
+    "editorWidget.background": "#1c1c29"
 	},
 	"tokenColors": [
 		{
