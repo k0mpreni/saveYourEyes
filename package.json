@@ -2,6 +2,7 @@
     "name": "save-eyes-hc",
     "displayName": "Save-Eyes-HC",
     "publisher": "alexlab",
+    "repository": "https://github.com/brainlulz/saveYourEyes",
     "description": "High Contrast Color theme that save your eyes",
     "version": "1.0.4",
     "engines": {
