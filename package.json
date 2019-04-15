@@ -1,0 +1,22 @@
+{
+    "name": "save-eyes-hc",
+    "displayName": "Save-Eyes-HC",
+    "publisher": "alexlab",
+    "description": "High Contrast Color theme that save your eyes",
+    "version": "1.0.3",
+    "engines": {
+        "vscode": "^1.33.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Save-Eyes-HC-Theme",
+                "uiTheme": "hc-black",
+                "path": "./themes/Save-Eyes-HC-Theme-color-theme.json"
+            }
+        ]
+    }
+}
