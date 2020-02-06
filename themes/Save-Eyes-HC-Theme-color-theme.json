@@ -8,6 +8,7 @@
     "activityBar.background": "#0f0f16",
     "activityBar.foreground": "#f92673c8",
     "sideBar.background": "#0f0f16",
+    "sideBar.foreground": "#f92673c8",
     "statusBar.background": "#0f0f16",
     "tab.activeBackground": "#0f0f16",
     "tab.hoverBackground": "#0f0f16",
@@ -24,7 +25,8 @@
     "editor.lineHighlightBorder": "#fde3a7ca",
     "merge.currentHeaderBackground": "#f92673c8",
     "merge.currentContentBackground": "#f9448692",
-    "editorWidget.background": "#1c1c29"
+    "editorWidget.background": "#1c1c29",
+    "focusBorder": "#f9267395"
 	},
 	"tokenColors": [
 		{
