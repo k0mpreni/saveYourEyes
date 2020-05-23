@@ -23,4 +23,4 @@ To have a clean look, I use [VSCode Great Icons](https://marketplace.visualstudi
 
 # Contributing
 
-As this theme is still on `work in progress` you might find some bugs. Feel free to add an issue to: https://github.com/brainlulz/saveYourEyes.
+As this theme is still on `work in progress` you might find some bugs. Feel free to add an issue to: https://github.com/imalexlab/saveYourEyes.
